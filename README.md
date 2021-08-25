@@ -30,8 +30,8 @@ Users should be able to:
 ![Design for stats-preview-card-component-main](./screenshot.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://appu912.github.io/stats-preview-card-component-main/)
+- Solution URL: [Project URL](https://github.com/appu912/stats-preview-card-component-main)
+- Live Site URL: [Live URL](https://appu912.github.io/stats-preview-card-component-main/)
 
 ### Built with
 
